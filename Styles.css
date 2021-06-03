@@ -1,3 +1,9 @@
 h1 {
-    color: rgb(68, 67, 68);
+    color: blue
+}
+footer{
+    display: flex;
+    }
+ul {
+    list-style-type: none;
 }
